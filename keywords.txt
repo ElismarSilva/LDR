@@ -1,0 +1,6 @@
+#Construtor
+
+FotoResistor	KEYWORD1
+
+#Métodos
+Luminosidade	KEYWORD2
